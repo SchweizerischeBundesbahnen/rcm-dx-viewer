@@ -1,6 +1,6 @@
 ## RCM Viewer
 
-![RCM Viewer Screenshot](docs/viewer.png)
+![RCM Viewer Screenshot](viewer.png)
 
 The RCM Viewer is a powerful and versatile application for viewing RCM files. While the release of the source code as Open Source Software is still in the works, you can find the latest binary distribution (.msi) on the [releases page](https://github.com/SchweizerischeBundesbahnen/rcm-dx/releases) of this repository. 
 
