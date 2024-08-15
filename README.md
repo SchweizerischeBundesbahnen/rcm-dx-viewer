@@ -3,6 +3,9 @@
 ![RCM Viewer Screenshot](viewer.png)
 
 The RCM-DX Viewer is a powerful and versatile application for viewing RCM-DX files. While the release of the source code as Open Source Software is still in the works, you can find the latest binary distribution (.msi) on the [releases page](https://github.com/SchweizerischeBundesbahnen/rcm-dx-viewer/releases) of this repository. 
+Please note: To install the RCM-DX Viewer do the following:
+1. Install vcredist_2013_x64.exe
+2. Install RCM_DX_Viewer_<versionnumber>.msi
 
 ### Workspaces
 
