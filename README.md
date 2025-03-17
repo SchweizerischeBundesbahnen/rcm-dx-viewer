@@ -19,4 +19,4 @@ The viewer allows the flexible combination of various views for data presentatio
 - [20220428-114946_DFZ00_TVS_v001_created-20220429-065432.rcmdx](https://sbb-wcms-big-files-server-prod.s3.eu-central-1.amazonaws.com/RCM-DX_Files/20220428-114946_DFZ00_TVS_v001_created-20220429-065432.rcmdx) (167MB)
 
 ## RCM-DX FileFormat
-Link to the open file fomat RCM-DX: https://github.com/OpenRailAssociation/rcm-dx
+Link to the open file format RCM-DX: https://github.com/OpenRailAssociation/rcm-dx
