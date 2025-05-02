@@ -7,6 +7,9 @@ Please note: To install the RCM-DX Viewer do the following:
 1. Install vcredist_2013_x64.exe
 2. Install RCM_DX_Viewer_<versionnumber>.msi
 
+### User manual
+User manual for RCM-DX Viewer Version 1.0: [Benutzerhandbuch RCM-DX Viewer V1.0.pdf](https://github.com/user-attachments/files/20010684/Benutzerhandbuch.RCM-DX.Viewer.V1.0.pdf)
+
 ### Workspaces
 
 The viewer allows the flexible combination of various views for data presentation, which can be imported and exported as "workspaces". For a quick way to try the viewer, you can import an example workspace from the [workspaces folder](https://github.com/SchweizerischeBundesbahnen/rcm-dx-viewer/tree/main/workspaces). 
