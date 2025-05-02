@@ -8,7 +8,7 @@ Please note: To install the RCM-DX Viewer do the following:
 2. Install RCM_DX_Viewer_<versionnumber>.msi
 
 ### User manual
-User manual for RCM-DX Viewer Version 1.0: [Benutzerhandbuch RCM-DX Viewer V1.0.pdf](https://github.com/user-attachments/files/20010684/Benutzerhandbuch.RCM-DX.Viewer.V1.0.pdf)
+User manual for RCM-DX Viewer Version 1.0: [Benutzerhandbuch RCM-DX Viewer V1.0.pdf](https://github.com/user-attachments/files/20010684/Benutzerhandbuch.RCM-DX.Viewer.V1.0.pdf) (German Version)
 
 ### Workspaces
 
