@@ -8,7 +8,9 @@ Please note: To install the RCM-DX Viewer do the following:
 2. Install RCM_DX_Viewer_<versionnumber>.msi
 
 ### User manual
-User manual for RCM-DX Viewer Version 1.0: [Benutzerhandbuch RCM-DX Viewer V1.0.pdf](https://github.com/user-attachments/files/20010684/Benutzerhandbuch.RCM-DX.Viewer.V1.0.pdf) (German Version)
+User manual for RCM-DX Viewer Version 1.0: 
+ - [Benutzerhandbuch RCM-DX Viewer V1.0.pdf](https://github.com/user-attachments/files/20010684/Benutzerhandbuch.RCM-DX.Viewer.V1.0.pdf) (German Version)
+ - [User Manual RCM-DX Viewer V1.0.pdf](https://github.com/SchweizerischeBundesbahnen/rcm-dx-viewer/blob/main/User%20manual%20RCM-DX%20Viewer%20V1.0.en-GB.pdf) (English Version)
 
 ### Workspaces
 
